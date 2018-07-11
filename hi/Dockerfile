@@ -1,4 +1,4 @@
 FROM scratch
 FROM scratch
-ADD hi /
+ADD hi /hi
 CMD ["/hi"]
